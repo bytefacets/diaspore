@@ -35,7 +35,6 @@ template_processor {
     main {
     }
     test {
-        excludedFiles.set(listOf("GenericReaderTest.java"))
     }
     testFixtures {
     }
